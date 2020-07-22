@@ -8,7 +8,7 @@ Hello! My name is Vítor Severo, I am 22 years old and also passionate about Tec
 - 🎓 Graduating in System Analysis and Development with an end date to July/2020.
 - 🌱 I’m currently learning more about Docker, Kubernetes, Cloud configurations, CI/CD with Github Actions and Jenkins, APIs integration and mobile apps development.
 - 📫 How to reach me: https://linktr.ee/vitorgsevero, https://vitorgsevero.github.io/myPortfolio/ or vitorgsevero@gmail.com
-- ⚡ Some facts about me: Coffee lover ☕, Soccer fan ⚽, Brazilian 🇧🇷 and dreaming about to travel around the world 🌎 
+- ⚡ Some facts about me: Coffee lover ☕, Soccer fan ⚽, Brazilian 🇧🇷, and dreaming about traveling around the world 🌎 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
