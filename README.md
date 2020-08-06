@@ -11,8 +11,7 @@ Hello! My name is Vítor Severo, I am 22 years old and also passionate about Tec
 - ⚡ Some facts about me: Coffee lover ☕, Soccer fan ⚽, Brazilian 🇧🇷, and dreaming about traveling around the world 🌎 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![github stats](https://github-readme-stats.vercel.app/api?username=vitorgsevero&show_icons=true)
-
+![Vitor's github stats](https://github-readme-stats.vercel.app/api?username=vitorgsevero&show_icons=true&theme=dark)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgsevero&hide=c,php)](https://github.com/vitorgsevero/github-readme-stats)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
