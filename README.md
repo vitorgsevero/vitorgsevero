@@ -4,7 +4,7 @@ Hello! My name is Vítor Severo, I am 22 years old and also passionate about Tec
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭  I’m currently working as a Jr Software Developer @ Neogrid. I have experience with Java, Spring Boot, Node.js, ExpressJS, ReactJS, Oracle, MongoDB, SQL Server, MySQL Workbench, APIs, Git, Github, CI/CD, Cloud and more. 
+- 🔭  I’m currently working as a Jr Software Developer @ DBServer. I have experience with Java, Spring Boot, Node.js, ExpressJS, ReactJS, Oracle, MongoDB, SQL Server, MySQL Workbench, APIs, Git, Github, CI/CD, Cloud and more. 
 - 🎓 Graduated in System Analysis and Development.
 - 🌱 I’m currently learning more about Docker, Kubernetes, Cloud configurations, CI/CD with Github Actions and Jenkins, APIs integration and mobile apps development.
 - 📫 How to reach me: https://linktr.ee/vitorgsevero, https://vitorgsevero.github.io/myPortfolio/ or vitorgsevero@gmail.com
