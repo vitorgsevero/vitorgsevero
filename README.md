@@ -4,9 +4,9 @@ Hello! My name is Vítor Severo, I am 22 years old and also passionate about Tec
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭  I’m currently working as a Backend Software Engineer @ HypeFlame. I have experience with Java, Spring Boot, Node.js, ExpressJS, ReactJS, Oracle, MongoDB, SQL Server, MySQL Workbench, APIs, Git, Github, CI/CD, Cloud and more. 
+- 🔭  I’m currently working as a Backend Software Engineer @ HypeFlame. I have experience with Java, Spring Boot, Node.js, ExpressJS, ReactJS, Oracle, MongoDB, SQL Server, MySQL Workbench, APIs, Git, Github, CI/CD, Cloud, Jenkins, ElastichSearch and more. 
 - 🎓 Graduated in System Analysis and Development.
-- 🌱 I’m currently learning more about Docker, Kubernetes, Cloud configurations, CI/CD with Github Actions and Jenkins, APIs integration and mobile apps development.
+- 🌱 I’m currently learning more about Docker, Kubernetes, Cloud configurations, APIs integration and more
 - 📫 How to reach me: https://linktr.ee/vitorgsevero, https://vitorgsevero.github.io/myPortfolio/ or vitorgsevero@gmail.com
 - ⚡ Some facts about me: Coffee lover ☕, Soccer fan ⚽, Brazilian 🇧🇷, and dreaming about traveling around the world 🌎 
 
