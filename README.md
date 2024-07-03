@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software Engineer with 5+ years of experience building microservices with Java, Spring Framework,SpringMVC, Spring WebFlux and a little bit of Kotlin.
+Software Engineer with 5+ years of experience building microservices with Java, Spring Framework, SpringMVC, Spring WebFlux and a little bit of Kotlin.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
